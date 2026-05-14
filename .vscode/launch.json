@@ -1,0 +1,13 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "lldb",
+      "request": "launch",
+      "args": [],
+      "cwd": "/Users/timbartelmess/Library/Mobile Documents/com~apple~CloudDocs/Programmiren/Vs Code/Inf 2/Anfang/Taschenrechner",
+      "program": "/Users/timbartelmess/Library/Mobile Documents/com~apple~CloudDocs/Programmiren/Vs Code/Inf 2/Anfang/Taschenrechner/build/Debug/outDebug"
+    }
+  ]
+}
